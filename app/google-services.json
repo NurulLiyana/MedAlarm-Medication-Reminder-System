@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "1071008498532",
+    "project_id": "medalarm-fa3c5",
+    "storage_bucket": "medalarm-fa3c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071008498532:android:bbd2924dcdf0e5333a3071",
+        "android_client_info": {
+          "package_name": "com.example.alarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071008498532-t420dor022sndaprt4bbbc55gg5hc996.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf6hiVXTWYkH2sLcKRlrQXrNL8gLQu7og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071008498532-t420dor022sndaprt4bbbc55gg5hc996.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071008498532:android:438a770577c3b4663a3071",
+        "android_client_info": {
+          "package_name": "com.example.medalarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071008498532-t420dor022sndaprt4bbbc55gg5hc996.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf6hiVXTWYkH2sLcKRlrQXrNL8gLQu7og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071008498532-t420dor022sndaprt4bbbc55gg5hc996.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071008498532:android:65eca25c81330e373a3071",
+        "android_client_info": {
+          "package_name": "com.example.medalarm2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071008498532-t420dor022sndaprt4bbbc55gg5hc996.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf6hiVXTWYkH2sLcKRlrQXrNL8gLQu7og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071008498532-t420dor022sndaprt4bbbc55gg5hc996.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071008498532:android:502010653a83d09a3a3071",
+        "android_client_info": {
+          "package_name": "com.example.medalarmtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071008498532-t420dor022sndaprt4bbbc55gg5hc996.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf6hiVXTWYkH2sLcKRlrQXrNL8gLQu7og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071008498532-t420dor022sndaprt4bbbc55gg5hc996.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
